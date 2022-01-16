@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20039" started-at="2022-01-15T19:30:26Z" finished-at="2022-01-15T19:30:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20039" started-at="2022-01-15T19:30:26Z" finished-at="2022-01-15T19:30:46Z">
+      <class name="PracticeSelenium.Google.loginTest">
+        <test-method status="PASS" signature="getLoginTest()[pri:0, instance:PracticeSelenium.Google.loginTest@28d25987]" name="getLoginTest" duration-ms="20015" started-at="2022-01-15T11:30:26Z" finished-at="2022-01-15T11:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLoginTest -->
+      </class> <!-- PracticeSelenium.Google.loginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
